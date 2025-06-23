@@ -2,6 +2,8 @@
 
 ## Get Started
 
+npx degit nickfday/code-templates/bulletproof-vite rampup-productivity
+
 Prerequisites:
 
 - Node 20+
